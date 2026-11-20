@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ranadheer67/leet-solutions/tree/master/0200-number-of-islands) |
+| [0993-cousins-in-binary-tree](https://github.com/ranadheer67/leet-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ranadheer67/leet-solutions/tree/master/0200-number-of-islands) |
+| [0993-cousins-in-binary-tree](https://github.com/ranadheer67/leet-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ranadheer67/leet-solutions/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/ranadheer67/leet-solutions/tree/master/0993-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/ranadheer67/leet-solutions/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
